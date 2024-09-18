@@ -2,22 +2,15 @@
 
 Welcome to the **Advanced Python Practice: Set Operations** repository! This project provides a comprehensive exploration of `set` operations using various Python libraries, demonstrated through Jupyter notebooks.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Notebooks](#notebooks)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Introduction
 
-This repository showcases the use of `set` operations across different Python libraries, including but not limited to:
+This repository showcases the use of different Pyhton Functions across different Python libraries, including but not limited to:
 - Built-in Python `set`
-- NumPy `set` operations
-- Pandas `set` operations
+- NumPy operations
+- Pandas operations
+- Matplotlib Library Functions
+- Scipy Functions 
+- various Statitical Functions 
 
 The project uses Jupyter notebooks to demonstrate practical applications and comparisons of these set operations.
 
@@ -30,8 +23,8 @@ The project uses Jupyter notebooks to demonstrate practical applications and com
 
 ## Getting Started
 
-To get started with this repository, follow these steps:
+To get started with this repository, clone the repo using below link :
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/phcoder05/advanced-python-practice.git
