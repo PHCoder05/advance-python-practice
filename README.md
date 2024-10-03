@@ -73,4 +73,12 @@ Explore and enjoy advanced Python practices!
 
 ---
 
+## 📬 Stay Connected
+
+Continue your learning journey and stay updated with more resources:
+
+- [GitHub Profile](https://github.com/phcoder05)
+- [LinkedIn Profile](https://www.linkedin.com/in/pankaj-hadole-722476232/)
+
+Happy coding! 😊
 
